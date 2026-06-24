@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { Braces } from 'react-bootstrap-icons';
 import { skills } from '../data/skills';
 

@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { BoxArrowUpRight, PersonVcard } from 'react-bootstrap-icons';
 import about from '@assets/about.jpeg';
 
